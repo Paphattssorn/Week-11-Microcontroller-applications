@@ -1,0 +1,5 @@
+Command: C:\Users\HP\.espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe C:\Users\HP\esp\v5.5.1\esp-idf\tools/idf_monitor.py -p COM5 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 C:\Users\HP\Documents\APPLICATIONSOFMICROCONTROLLERS\Week-11-Microcontroller-applications\Week-11-Microcontroller-applications\testADC\build\testADC.elf C:\Users\HP\Documents\APPLICATIONSOFMICROCONTROLLERS\Week-11-Microcontroller-applications\Week-11-Microcontroller-applications\testADC\build\bootloader\bootloader.elf --force-color -m 'C:\Users\HP\.espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe' 'C:\Users\HP\esp\v5.5.1\esp-idf\tools\idf.py' '-p' 'COM5'
+0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_Vets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download

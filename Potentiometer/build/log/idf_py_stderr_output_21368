@@ -1,0 +1,99 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Users\HP\.espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=1 C:\Users\HP\Documents\APPLICATIONSOFMICROCONTROLLERS\Week-11-Microcontroller-applications\Week-11-Microcontroller-applications\Potentiometer
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/mbedtls/mbedtls/library/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/./
+
+  has 207 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    d080192f9204ca328508503fe5d42455/esp_aes_xts.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/mbedtls/mbedtls/library/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/./
+
+  has 204 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    0b121e083ed407015f661dafcf411fb2/esp_platform_time.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/bootloader_support/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/./
+
+  has 216 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    bootloader_flash/src/bootloader_flash.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/esp_hw_support/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/./
+
+  has 208 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    mspi_timing_tuning/mspi_timing_tuning.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/freertos/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/./
+
+  has 196 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/wpa_supplicant/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/./
+
+  has 208 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    esp_supplicant/src/crypto/crypto_mbedtls.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/HP/esp/v5.5.1/esp-idf/components/esp_driver_touch_sens/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/HP/Documents/APPLICATIONSOFMICROCONTROLLERS/Week-11-Microcontroller-applications/Week-11-Microcontroller-applications/Potentiometer/build/esp-idf/esp_driver_touch_sens/CMakeFiles/__idf_esp_driver_touch_sens.dir/./
+
+  has 222 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    common/touch_sens_common.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

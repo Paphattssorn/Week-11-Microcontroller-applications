@@ -1,0 +1,17 @@
+# Ignore build output folders
+build/
+*/build/
+*.bin
+*.elf
+*.map
+*.log
+*.obj
+
+# Ignore IDE files
+.vscode/
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.lock
+*.bak
